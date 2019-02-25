@@ -1,4 +1,4 @@
--- ALLAN VICTOR ALVES DE LIMA
+-- Modificado por: EDMILA DE MACEDO
 -- PARALELO SERIAL
 library ieee;
 use ieee.std_logic_1164.all;
