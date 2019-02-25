@@ -2,8 +2,7 @@
 -- Entrada: bcd (vetor de 4 posicoes);
 -- Saida: HEX (vetor de 7 posicoes)
 -- Autores: Joao Vitor e Marcos Meira
--- Modificado por: ALLAN VICTOR ALVES DE LIMA
--- 29/07/2017
+-- Modificado por: EDMILA DE MACEDO
  
 library ieee;
 use ieee.std_logic_1164.all;
