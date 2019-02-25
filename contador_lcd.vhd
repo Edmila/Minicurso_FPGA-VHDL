@@ -1,4 +1,4 @@
--- ALLAN VICTOR ALVES DE LIMA
+-- Modificado por: EDMILA DE MACEDO
 -- PARAMETROS LCD
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
